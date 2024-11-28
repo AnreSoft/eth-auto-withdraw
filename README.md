@@ -1,4 +1,5 @@
-# Crypto Wallet Automation Tool
+![GH-preview](https://github.com/user-attachments/assets/3b0c02fc-66f6-4de5-abab-39698102d476)
+# Etherium Wallet Automation Tool
 
 ## Overview
 This tool is designed to monitor and manage crypto wallet addresses on Ethereum and Binance Smart Chain (BSC). It automates the following processes:
